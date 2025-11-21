@@ -1,0 +1,26 @@
+# General OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / JavaScript
+node_modules/
+.eslintcache
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Test / coverage
+coverage/
+
+# WordPress plugin packaging
+*.zip
+
+# Env / local overrides
+.env
+.env.*
