@@ -26,7 +26,7 @@
     "react": "^19.2.8"
   },
   "devDependencies": {
-    "@wordpress/scripts": "^34.1.0"
+    "@wordpress/scripts": "^34.2.0"
   },
   "scripts": {
     "build": "wp-scripts build src/block.js --output-path=assets/js/block",
